@@ -5,6 +5,13 @@ body {
 
 hr {
   border-style: none;
-  border-top: 4px dotted #ffb6c1;
+  border-top: 4px dotted #FDFF8F;
   width: 5%;
+}
+
+h1 {
+  color: #A8ECE7;
+}
+h3 {
+  color: #D47AE8;
 }
