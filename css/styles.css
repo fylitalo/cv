@@ -2,9 +2,14 @@ body {
   background-color: #A8ECE7;
 
 }
-.Fran {
+.pict {
+  .pict{
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
   border-radius: 99%;
 }
+
 
 hr {
   border-style: none;
